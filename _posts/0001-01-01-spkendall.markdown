@@ -7,7 +7,7 @@ hometown: Indianapolis, IN
 tags:
 - linux
 - oracle
-- retrocomputing
+- Retro Computing
 ---
 
 <!-- Tell us a little about yourself. -->
