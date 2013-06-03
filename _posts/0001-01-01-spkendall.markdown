@@ -6,7 +6,7 @@ company: Walker Information
 hometown: Indianapolis, IN
 tags:
 - linux
-- oracle
+- Oracle database
 - Retro Computing
 ---
 
